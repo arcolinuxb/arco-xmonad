@@ -625,7 +625,7 @@ qt5-xmlpatterns
 xmonad
 xmonad-contrib
 xmonad-utils
-xmobar
+#xmobar
 xdo
 xdotool
 xmonad-log
