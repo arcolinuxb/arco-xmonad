@@ -626,6 +626,7 @@ xmonad
 xmonad-contrib
 xmonad-utils
 #xmobar
+haskell-dbus
 xdo
 xdotool
 xmonad-log
