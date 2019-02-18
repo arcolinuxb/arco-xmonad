@@ -491,6 +491,7 @@ arcolinux-bin-git
 #arcolinux-config-gnome-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
+arcolinux-config-xmobar-git
 arcolinux-config-xmonad-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
@@ -624,8 +625,8 @@ qt5-xmlpatterns
 xmonad
 xmonad-contrib
 xmonad-utils
-#xmobar
-haskell-dbus
+xmobar
+#haskell-dbus
 xdo
 xdotool
 xmonad-log
