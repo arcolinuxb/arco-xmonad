@@ -631,3 +631,5 @@ xdo
 xdotool
 xmonad-log
 polybar
+checkupdates-aur
+perl-checkupdates-aur
