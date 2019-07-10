@@ -197,7 +197,7 @@ splix
 system-config-printer
 
 #printer extra for hplip
-pyqt5-common
+#pyqt5-common
 #python-pillow
 #python-pip
 #python-pyqt5
@@ -442,7 +442,6 @@ glxinfo
 grub-customizer
 hardcode-fixer-git
 inxi
-#libappindicator-gtk3
 #menulibre
 mintstick-git
 #mugshot
