@@ -552,7 +552,6 @@ arcolinux-xmonad-polybar-git
 #xfce4 group content
 exo
 garcon
-gtk-xfce-engine
 thunar
 xfce4-appfinder
 xfce4-panel
