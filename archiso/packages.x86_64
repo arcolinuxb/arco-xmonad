@@ -618,7 +618,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-spectrwm-git
 #arcolinux-config-ukui-git
 #arcolinux-config-xfce-git
-arcolinux-config-xmonad-git
+#arcolinux-config-xmonad-git
 #arcolinux-config-xtended-git
 
 ###########################################################################
